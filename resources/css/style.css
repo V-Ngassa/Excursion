@@ -30,3 +30,8 @@
   font-size: 21px;
   color: Gray;
 }
+
+.fa fa-copyright {
+  color: gray;
+  text-align: right;
+}
