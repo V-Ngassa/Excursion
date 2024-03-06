@@ -1,17 +1,17 @@
-.title {
+h1 {
   font-family: Verdana;
   font-weight: Normal;
   font-size: 20px;
   color: White;
   }
 
-.guide {
+h2 {
   font-family: Verdana;
   font-weight: Normal;
   font-size: 15px;
 }
 
-.catch phrase {
+h3 {
   font-family: Verdana;
   font-weight: Normal;
   font-size: 20px;
@@ -24,13 +24,13 @@
   font-size: 16px;
 }
 
-.info {
+p {
   font-family: Verdana;
   font-size: 21px;
   color: Gray;
 }
 
-.copyright {
+.footer {
   color: gray;
   text-align: right;
 }
